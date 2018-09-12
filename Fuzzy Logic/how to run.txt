@@ -1,0 +1,7 @@
+how to run
+
+- open fuzzy set.py
+- compile and run with python 3
+
+
+nb: berita.py and shape.py is a class that is required in the main program, do not seperate them
