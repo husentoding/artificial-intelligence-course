@@ -1,0 +1,17 @@
+programming language used: Python 3.0
+
+knn2.py // this file contains the cross validation
+-run the file using python 3 compiler
+-see terminal for results
+
+kfold results.txt //this file contains the results of knn2.py that i copy from terminal
+-open the txt 
+- ('Akurasi ', 0, 0, ' ', 60.05155512655513, ' Jumlah Fold: ', 4, ' Jumlah kNN: ', 3)
+- 0,0 is the i and j iteration, 60.05 is the accuracy , jumlah fold: 4 is the number of fold in cross validation and jumlah knn is the number of k in knn
+
+knn.py // this file contains the knn of training data and testing data
+change the third variable at knn method at line 106 to try different k
+
+Dataset Tugas 3 AI 1718.xlsx //this file contains the training data and test data
+- make sure to put it on the same folder with knn.py and knn2.py
+- i have copy the results of knn.py on the second sheet 
